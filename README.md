@@ -11,7 +11,7 @@ Library Management System Using Python and Django Where One Can Perform CRUD Ope
 
 Please Import library.sql to your database.
 
-# Credeentials
+# Credentials
 Superuser: Username-admin, Password-admin
 User/student: Username-altamashkhan, Password-khan@1234
 
