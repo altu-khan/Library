@@ -9,4 +9,10 @@ Library Management System Using Python and Django Where One Can Perform CRUD Ope
   5. View added Books.
 3.	API login page
 
+Please Import library.sql to your database.
+
+# Credeentials
+Superuser: Username-admin, Password-admin
+User/student: Username-altamashkhan, Password-khan@1234
+
 
