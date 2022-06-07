@@ -1,0 +1,9 @@
+APP - api
+1. App url pattern in project's urls.py
+2. urls.py
+3. views.py     
+
+App - Books
+1. Design Model - models.py
+2. Register app ko setting.py installed_app setting.py
+3. Register app to admin panel - admin.py
